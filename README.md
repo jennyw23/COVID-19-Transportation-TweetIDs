@@ -18,6 +18,9 @@ Example: `covid-mobility-tweet-2021-07-30.txt`
 
 ## Notes About the Data
 
+### Data Collection Notebooks
+Access the notebooks used for data collection here: [COVID-19-Transportation](https://github.com/jennyw23/COVID-19-Transportation)
+
 ### COVID-19+Transportation Data Collected
     
 The COVID-19+Transportation Dataset collects data with the following steps:
