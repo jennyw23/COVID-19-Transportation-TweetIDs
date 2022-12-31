@@ -2,7 +2,7 @@
 
 The repository contains a collection of tweet IDs related to mobility and transportation during the coronavirus pandemic. It scrapes tweets from the [COVID-19-TweetIDs dataset](https://github.com/echen102/COVID-19-TweetIDs/tree/master/2022-03) in order to capture tweets which mention specific keywords. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we only release the Tweet IDs of the collected COVID-19+Transportation Tweets. 
 
-The associated paper to this repository can be found here: 
+The associated paper to this repository can be found here: [Evaluating Changes in Mobility Behavior Throughout the COVID-19 Pandemic Using Twitter](https://jennywang.me/files/Final-CS_315_Final_Paper.pdf)
 
 For further background, the associated paper to the COVID-19-TweetIDS repository can be found here: [Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set](https://publichealth.jmir.org/2020/2/e19273/)
 
